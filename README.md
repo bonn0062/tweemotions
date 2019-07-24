@@ -6,7 +6,7 @@ More than 300 million people suffer from depression and only a fraction receive 
 
 It doesn’t have to be this way. 
 
-[Read more...][https://github.com/bonn0062/tweemotions/blob/master/ProjectProposal.pdf]
+[Read more...] [(https://github.com/bonn0062/tweemotions/blob/master/ProjectProposal.pdf)]
 
 ### Random Tweets
 The random tweets dataset can be found here:
