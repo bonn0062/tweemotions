@@ -6,7 +6,7 @@ More than 300 million people suffer from depression and only a fraction receive 
 
 It doesn’t have to be this way. 
 
-[Read more...] [(https://github.com/bonn0062/tweemotions/blob/master/ProjectProposal.pdf)]
+[Read more... https://github.com/bonn0062/tweemotions/blob/master/ProjectProposal.pdf]
 
 ### Random Tweets
 The random tweets dataset can be found here:
@@ -14,7 +14,7 @@ https://www.kaggle.com/ywang311/twitter-sentiment/data
 
 **This dataset is too large to include in the GitHub repo and must be downloaded in order to run the model.**
 
-It was built from the [Sentiment140 dataset][https://www.kaggle.com/kazanova/sentiment140] available on Kaggle, but this dataset offers a binary classification of the classified sentiment. 
+It was built from the [Sentiment140 dataset https://www.kaggle.com/kazanova/sentiment140] available on Kaggle, but this dataset offers a binary classification of the classified sentiment. 
 
 The link to the Sentiment140 dataset contains this information about the contents:
 
