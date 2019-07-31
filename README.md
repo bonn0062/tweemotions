@@ -18,32 +18,32 @@ It was built from the [Sentiment140 dataset https://www.kaggle.com/kazanova/sent
 
 The link to the Sentiment140 dataset contains this information about the contents:
 
-**"Context:**
+*"Context:**
 
-This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
+*This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 
-**Content:**
+*Content:**
 
-It contains the following 6 fields:
+*It contains the following 6 fields:
 
--target: the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)
+*-target: the polarity of the tweet (0 = negative, 2 = neutral, 4 = positive)
 
--ids: The id of the tweet ( 2087)
+*-ids: The id of the tweet ( 2087)
 
--date: the date of the tweet (Sat May 16 23:58:44 UTC 2009)
+*-date: the date of the tweet (Sat May 16 23:58:44 UTC 2009)
 
--flag: The query (lyx). If there is no query, then this value is NO_QUERY.
+*-flag: The query (lyx). If there is no query, then this value is NO_QUERY.
 
--user: the user that tweeted (robotickilldozr)
+*-user: the user that tweeted (robotickilldozr)
 
--text: the text of the tweet (Lyx is cool)"
+*-text: the text of the tweet (Lyx is cool)"*
 
 ### Embedding 
 
 The Word2vec embedding file can be downloaded here:
 https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
-**This is also too large to be made available on GitHub and must be downloaded separatedly in order to run the classifier.**
+**This dataset also too large to be made available on GitHub and must be downloaded separatedly in order to run the classifier.**
 
 ### Depressive Tweets
 
