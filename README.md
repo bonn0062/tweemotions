@@ -1,4 +1,4 @@
-# You Are What You Tweet: 
+# You Are What You Tweet 
 
 ### Detecting Depression in Social Media via Twitter Usage
 
@@ -13,7 +13,7 @@ It doesn’t have to be this way.
 [Read more...](https://github.com/bonn0062/mlnd_capstone/blob/master/capstone_report.pdf)
 
 
-### Random Tweets
+## Random Tweets
 [The random tweets dataset can be found here](https://www.kaggle.com/ywang311/twitter-sentiment/data)
 
 **This dataset is too large to include in the GitHub repo and must be downloaded in order to run the model.**
@@ -43,14 +43,14 @@ The link to the Sentiment140 dataset contains this information about the content
 *-text: the text of the tweet (Lyx is cool)"*
 
 
-### Embedding 
+## Embedding 
 
 [The Word2vec embedding file can be downloaded here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 
 **This dataset also too large to be made available on GitHub and must be downloaded separatedly in order to run the classifier.**
 
 
-### Depressive Tweets
+## Depressive Tweets
 
 Tweets indicating depression were retrieved using the Twitter scraping tool TWINT using linguistic markers indicitive of depression. The scraped tweets may contain tweets that do not indicate the user having depression, such as tweets linking to articles about depression or talking about loved ones who have depression. As a result, the scraped tweets will need to be manually checked for better testing results. 
 
@@ -64,7 +64,7 @@ In order to gather Tweets with TWINT, a command such as
 
 Can be run to scrape Tweets that contain the term “depression” on a specific day (or days) and save the information as a csv file. Make sure to adjust the date and/or search terms as necessary.
 
-### Necessary Libraries
+## Necessary Libraries
 
 This model utilizes a number of libraries, including Matplotlib, NumPy, and more. These libraries can easily be downloaded and documentation is available on the official sites. Example pip installation commands included below.
 
