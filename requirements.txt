@@ -187,7 +187,7 @@ pep8-naming==0.8.2
 percy==2.0.2
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==6.2.0
 pkginfo==1.5.0.1
 plotly==3.10.0
 pluggy==0.12.0
