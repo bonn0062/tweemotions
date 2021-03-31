@@ -142,7 +142,7 @@ libarchive-c==2.8
 lief==0.9.0
 llvmlite==0.28.0
 locket==0.2.0
-lxml==4.3.2
+lxml==4.6.3
 lz4==2.1.9
 Mako==1.0.9
 Markdown==3.1
